@@ -11,8 +11,8 @@
             time        : 300,
             color        : ['#000', '#333', '#999']
         }, options);
-        
-		var divs = $(".caso");
+
+		var divs = $(".random");
 		
 		function colori() {
 			var color = settings.color[Math.floor(Math.random()*settings.color.length)];

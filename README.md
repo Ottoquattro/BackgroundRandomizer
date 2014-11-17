@@ -10,7 +10,7 @@ Usage:
 		time: 400
 	});
 
-Plugin will work with every div with *caso* class.
+Plugin will work with every div with *random* class.
 
 
 *mail@ottoquattro.com*
