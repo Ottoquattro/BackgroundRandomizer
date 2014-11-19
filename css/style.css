@@ -1,1 +1,12 @@
-.random {width:800px; height:100px; background:#fff; margin-bottom: 20px; padding:20px; color:#fff;}
+.random {
+	width:800px; 
+	height:100px; 
+	background:#fff; 
+	margin-bottom: 20px; 
+	padding:20px; 
+	color:#fff;
+	background-position: 0 50;
+  	-moz-background-size: cover;
+  	-webkit-background-size: cover;
+  	background-size: cover;
+}
